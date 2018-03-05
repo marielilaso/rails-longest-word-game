@@ -1,0 +1,20 @@
+// Place all the styles related to the new controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.random-letter li {
+  display: inline-block;
+  background-color: #0278ae;
+  width: 50px;
+  height: 50px;
+  text-align: center;
+  color: white;
+  font-size: 35px;
+  box-shadow: 1px;
+}
+
+ul {
+  display: inline-block;
+  text-align: center;
+}
+
